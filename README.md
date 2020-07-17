@@ -1,5 +1,40 @@
 ### Hi there 👋
 
+
+Hi, I'm Basel Rabia, a Backend Web Developer 🚀 , Always doing my best with the aim of improving operational functionality in line 👨‍💻
+with business requirements 🤝; Beside's programming, I enjoy eating food and traveling 😋.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨‍💻 I’m currently working on some side projects to endorse my skills;
+- 🌱 I’m currently learning best practice in laravel ,problem solving with C++; 
+- 👯 I’m looking to collaborate and work alongside an expert team of developers 🤝;
+- 🤔 I’m looking for new challanges and new opportunity to gain the experience which i'm proud to have it 🤩 ;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: solving Bugs is my enteritanment 🤗;
+- 📫 How to reach me: baselrabia@gmail.com;
+- 📝[My Resume](https://drive.google.com/file/d/1mkzKIVPcGhmfLsIcM0uHftK8WUlG1vR1/view) 👨‍💻
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=baselrabia&show_icons=true&hide_border=true)
+
+
+
 <!--
 **baselrabia/baselrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
