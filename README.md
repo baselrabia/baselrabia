@@ -31,9 +31,6 @@ with business requirements 🤝; Beside's programming, I enjoy eating food and t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=baselrabia&show_icons=true&hide_border=true)
-
-
 
 <!--
 **baselrabia/baselrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +46,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baselrabia&layout=compact )
+![github stats](https://github-readme-stats.vercel.app/api?username=baselrabia )](https://www.linkedin.com/in/baselrabia/)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Basel%20Rabia-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baselrabia/)
+![profile](https://gpvc.arturio.dev/baselrabia)](https://www.linkedin.com/in/baselrabia/)
