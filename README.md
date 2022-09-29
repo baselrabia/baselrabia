@@ -17,6 +17,10 @@ with business requirements 🤝; Beside's programming, I enjoy eating food and t
 - 📫 How to reach me: baselrabia@gmail.com;
 - 📝[My Resume: DM](mailto:baselrabia@gmail.com) 👨‍💻
 
+**OpenSource Contribution:**
+
+- [Laravel FrameWork](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Abaselrabia)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
