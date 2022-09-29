@@ -15,7 +15,7 @@ with business requirements 🤝; Beside's programming, I enjoy eating food and t
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: solving Bugs is my enteritanment 🤗;
 - 📫 How to reach me: baselrabia@gmail.com;
-- 📝[My Resume](https://drive.google.com/file/d/1XPE60w0nBlT_MmHpkpMvV59T1UB6tfah/view) 👨‍💻
+- 📝[My Resume: DM]() 👨‍💻
 
 **Languages and Tools:**  
 
